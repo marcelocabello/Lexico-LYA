@@ -1,0 +1,14 @@
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\bin\Debug\net7.0\Lexico.exe
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\bin\Debug\net7.0\Lexico.deps.json
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\bin\Debug\net7.0\Lexico.runtimeconfig.json
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\bin\Debug\net7.0\Lexico.dll
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\bin\Debug\net7.0\Lexico.pdb
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\obj\Debug\net7.0\Lexico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\obj\Debug\net7.0\Lexico.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\obj\Debug\net7.0\Lexico.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\obj\Debug\net7.0\Lexico.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\obj\Debug\net7.0\Lexico.dll
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\obj\Debug\net7.0\refint\Lexico.dll
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\obj\Debug\net7.0\Lexico.pdb
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\obj\Debug\net7.0\Lexico.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Documentos\C#\Lexico\obj\Debug\net7.0\ref\Lexico.dll
